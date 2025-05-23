@@ -7,7 +7,7 @@
 ### BRAND
 
 ```
-master
+main
 ```
 
 ### ENV
